@@ -4,6 +4,7 @@
 # GNOME shell system monitor extension.
 # Guillaume Ayoub <guillaume.ayoub@kozea.fr>, 2011.
 #
+#: extension.js:906
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-shell-system-monitor-applet\n"
